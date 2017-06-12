@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#mapOsm {
+  height: 550px;
+  margin-bottom: 10px;
+}
+
+/*JSON Syntax Highlighting*/
+pre {outline: 1px solid #ccc; padding: 5px; margin: 5px; }
+.string { color: green; }
+.number { color: blue; }
+.boolean { color: darkorange; }
+.null { color: magenta; }
+.key { color: #963e96; }
